@@ -19,20 +19,13 @@ class test
         $this->pretecr = $pretecr;
     }
 
-    /**
-     * @return string
-     */
-    public function getPretecr(): string
-    {
-        return $this->pretecr;
-    }
+
 
     /**
      * @param string $pretecr
      */
     public function setPretecr(string $pretecr): void
-    {
-        $this->pretecr = $pretecr;
+    {$this->pretecr = $pretecr;
     }
 
 
