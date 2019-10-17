@@ -24,6 +24,14 @@ class test
 
 
 
+    /**
+     * @param string $pretecr
+     */
+    public function setPretecr(string $pretecr): void
+    {$this->pretecr = $pretecr;
+    }
+
+
 
 
 
