@@ -20,18 +20,7 @@ class test
     }
 
 
-    // je m aime
-
-
-
-    /**
-     * @param string $pretecr
-     */
-    public function setPretecr(string $pretecr): void
-    {$this->pretecr = $pretecr;
-    }
-
-
+// fuck la vie
 
 
 
